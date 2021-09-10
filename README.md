@@ -1,3 +1,3 @@
 # hello_world
-Idea Hub
-Create a time keeper application for future projects 
+# Today I decided to conquer this programming thing!
+ 
